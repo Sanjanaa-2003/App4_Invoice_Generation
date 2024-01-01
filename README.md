@@ -1,2 +1,3 @@
-# App4_Invoice_Generation
-An app that generates invoices
+# What is this project?
+This is an app that creates pdf
+invoices out of excel files.
